@@ -24,7 +24,7 @@ Because our application not only facilitates events, but merchandising for event
 # Opportunity and target market
 The COVID pandemic had shaken up the industry for in person events.  
 This is doubly true for the ecosystem among university organizations.  
-Because in-person events among university organizations currently healing, an opportunity has appeared for two reasons:  
+Because in-person events among university organizations are currently healing, an opportunity has appeared for two reasons:  
 1. Brand Loyalty  
 2. Pick up orders
 
