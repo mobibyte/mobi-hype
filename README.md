@@ -1,2 +1,2 @@
-# momobash
+# Mobi Hype
 Event app
