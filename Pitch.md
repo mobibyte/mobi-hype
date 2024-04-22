@@ -25,10 +25,16 @@ Because our application not only facilitates events, but merchandising for event
 The COVID pandemic had shaken up the industry for in person events.  
 This is doubly true for the ecosystem among university organizations.  
 Because in-person events among university organizations currently healing, an opportunity has appeared for two reasons:  
-1. Pick up orders  
-2. Brand loyalty  
+1. Brand Loyalty  
+2. Pick up orders
 
+Student members become passionate fans of the their respective organization.  
+Even more so when they are able to bond in person.  
+Members often want to show their support by buying merchandise such as t-shirts.  
+Organizations are able to save money by selling their merchandise in person instead of incurring shipping costs.  
 
+However, in person sales can become difficult.  
+Members don't often carry cash, and organizations waste energy moving supplies to events that members are not prepared to buy.  
 
 # Technology
 
