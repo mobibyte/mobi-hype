@@ -33,15 +33,16 @@ Even more so when they are able to bond in person.
 Members often want to show their support by buying merchandise such as t-shirts.  
 Organizations are able to save money by selling their merchandise in person instead of incurring shipping costs.  
 
-However, in person sales can become difficult.  
-Members don't often carry cash, and organizations waste energy moving supplies to events that members are not prepared to buy.  
+However, in person sales can become difficult.    
+Our target demographic is unique, and why it is such an untapped market.
+Members don't often carry cash, but organizations are not guaranteed to have a bank account to accept card payments.  
 
 # Technology
 Our techology excels for two reasons:  
 1. Members pay easily
 2. Organizations sell easily  
 
-
+ 
 
 # Competition
 
