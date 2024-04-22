@@ -37,6 +37,11 @@ However, in person sales can become difficult.
 Members don't often carry cash, and organizations waste energy moving supplies to events that members are not prepared to buy.  
 
 # Technology
+Our techology excels for two reasons:  
+1. Members pay easily
+2. Organizations sell easily  
+
+
 
 # Competition
 
